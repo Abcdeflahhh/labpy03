@@ -11,7 +11,7 @@ Matkul: Bahasa Pemrograman
 
 # Soal latihan
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/ead01c1a56b760fa2741e76cda7776d524b1c0e9/Image/Screenshot%20From%202024-10-29%2011-15-44.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/22a409921b1b82a454c795f5fd780bc0bb8f6ede/image/pra3.jpg)
 
 # Latihan1.py
 
