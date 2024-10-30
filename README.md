@@ -1,10 +1,11 @@
 # labpy03
+
 # Biodata
-Nama: ANDREAN PUTRA ARYA
+Nama: AFLAH ATHALLAH TAMAM KAPUKONG
 
 Kelas: TI.24.A4
 
-NIM: 312410341
+NIM: 312410280
 
 Matkul: Bahasa Pemrograman
 
