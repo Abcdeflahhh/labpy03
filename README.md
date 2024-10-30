@@ -122,11 +122,11 @@ Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/latihan2.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/d1b487b4146df94bbc5d2dc6f6d2c51f54ae23bd/image/code%20laba.jpg)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/Screenshot%20From%202024-10-29%2011-44-10.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/d1b487b4146df94bbc5d2dc6f6d2c51f54ae23bd/image/hasil%20laba.jpg)
 
 # Latihan3.py
 
