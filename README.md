@@ -61,7 +61,7 @@ Code program tersebut:
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/Screenshot%20From%202024-10-29%2011-04-41.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/b75f6497b5805659d5fb7aeea11ad05a76c8aad6/image/hasil%20n.jpg)
 
 # Latihan2.py
 
