@@ -88,6 +88,7 @@ print("Laba bulan ke-4 sebesar:", laba[3])
 print("Laba bulan ke-5 sebesar:", laba[4])
 print("Laba bulan ke-6 sebesar:", laba[5])
 print("Laba bulan ke-7 sebesar:", laba[6])
+
 print("Laba bulan ke-8 sebesar:", laba[7])
 print("Total laba adalah:", total_laba)
 ```
@@ -204,8 +205,8 @@ Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program a
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/latihan3.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/1579ae50f9ab6eb764342c67b0582c7783451df3/image/code%20atm.jpg)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/Screenshot%20From%202024-10-29%2012-06-49.png)
+![gambar](https://github.com/Abcdeflahhh/labpy03/blob/1579ae50f9ab6eb764342c67b0582c7783451df3/image/hasil%20atm.jpg)
